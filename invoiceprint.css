@@ -1,0 +1,12 @@
+.btn , .NoPrint 
+{
+    display: none;
+}
+.table-row-font{
+    font-weight: bold;
+    font-family: "myheadingfont";
+    font-size: 2px;
+     }
+     .border-black{
+        border: 1px solid black;
+     }
